@@ -1,0 +1,17 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Power BI temporary files
+*.tmp
+*.bak
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Large local exports
+*.zip
