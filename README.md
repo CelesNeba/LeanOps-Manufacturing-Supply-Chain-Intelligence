@@ -109,3 +109,32 @@ This project demonstrates the ability to design an end-to-end analytics solution
 This screenshot provides a preview of the manufacturing operations & supply chain analytics dashboard. To explore the complete project, including the data, SQL scripts, Power BI model, documentation, and analysis notebooks, please review the project folders in this repository.
 
 ![Manufacturing & Logistics Dashboard](https://raw.githubusercontent.com/CelesNeba/Manufacturing-operations-supply-chain-analytics-/main/Manufacturing%20%26%20logistics%20screenshort%20dashboard.PNG)
+
+
+
+
+
+
+## 📊 My findings from the analysis & recommendations
+
+> **"My end-to-end data analysis reveals that while macro plant performance looks exceptionally stable with a high 99.97% Asset Availability, hidden vulnerabilities exist in the logistical workflows where a 3.06-day average delivery delay is directly triggering localized material stockouts and inflating a £40.25M operating footprint."**
+
+---
+
+###  Strategic action plan for stakeholders
+
+*   **Enforce procurement controls:** Immediately implement a strict **95% minimum floor** on supplier quality scores to audit and hold underperforming vendors before material shortages hit the production line.
+*   **Cap floor bottlenecks:** Mandate a **2.5% maximum threshold** on Downtime Rates, transitioning engineering teams from reactive fixes to predictive maintenance intervals scheduled during lower labor-throughput windows.
+*   **Unify plant floor decisions:** Deploy this live, cloud-hosted **4-Quadrant Command Center** onto operations tablets to synchronize communication across production, procurement, and logistics teams, preventing misaligned shift handovers.
+
+
+
+
+
+### Intelligence delivery credential
+*   **Author:** Neba Celestine | **B.Sc. in computer science**
+*   **Title options:** 
+    *   **Operations intelligence architect**
+    *   **Manufacturing insights & analytics strategist**
+    *   **Supply chain data engineer**
+    *   **Principal business intelligence engineer **
