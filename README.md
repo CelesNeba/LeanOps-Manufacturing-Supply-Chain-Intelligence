@@ -103,3 +103,9 @@ sql/           SQL scripts and queries
 # Project Outcome
 
 This project demonstrates the ability to design an end-to-end analytics solution that connects business problems with data, analytical methods, and executive-level reporting.
+
+## Dashboard screenshot
+
+This screenshot provides a preview of the manufacturing operations & supply chain analytics dashboard. To explore the complete project, including the data, SQL scripts, Power BI model, documentation, and analysis notebooks, please review the project folders in this repository.
+
+![Manufacturing & Logistics Dashboard](https://raw.githubusercontent.com/CelesNeba/Manufacturing-operations-supply-chain-analytics-/main/Manufacturing%20%26%20logistics%20screenshort%20dashboard.PNG)
