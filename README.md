@@ -115,7 +115,7 @@ This screenshot provides a preview of the manufacturing operations & supply chai
 
 
 
-## 📊 My findings from the analysis & recommendations
+##  My findings from the analysis & recommendations
 
 > **"My end-to-end data analysis reveals that while macro plant performance looks exceptionally stable with a high 99.97% Asset Availability, hidden vulnerabilities exist in the logistical workflows where a 3.06-day average delivery delay is directly triggering localized material stockouts and inflating a £40.25M operating footprint."**
 
