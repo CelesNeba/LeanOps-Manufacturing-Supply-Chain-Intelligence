@@ -89,7 +89,7 @@ sql/           SQL scripts and queries
 
 ---
 
-# Analytics Stack
+# Analytics stack
 
 * Microsoft Power BI
 * Python
@@ -100,7 +100,7 @@ sql/           SQL scripts and queries
 
 ---
 
-# Project Outcome
+# Project outcome
 
 This project demonstrates the ability to design an end-to-end analytics solution that connects business problems with data, analytical methods, and executive-level reporting.
 
