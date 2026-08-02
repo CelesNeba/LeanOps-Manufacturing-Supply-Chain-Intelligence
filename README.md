@@ -137,4 +137,5 @@ This screenshot provides a preview of the manufacturing operations & supply chai
     *   **Operations intelligence architect**
     *   **Manufacturing insights & analytics strategist**
     *   **Supply chain data engineer**
-    *   **Principal business intelligence engineer **
+    *   **Principal business intelligence engineer**
+    *   **Data analyst**
