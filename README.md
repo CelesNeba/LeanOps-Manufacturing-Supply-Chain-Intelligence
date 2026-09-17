@@ -1,4 +1,4 @@
-# Manufacturing operations & supply chain analytics
+# LeanOps-Manufacturing-Supply-Chain-Intelligence
 
 ## Project overview
 
